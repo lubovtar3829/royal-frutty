@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, one single glossy 3D woven golden fruit basket filled with bright fruits, centered, cream radial gradient background, crisp, no text"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile game loader background, deep royal purple velvet kitchen, soft vignette, cinematic, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile game menu background, bright royal palace kitchen with marble counters and cream walls, vibrant 3D render, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile game background, soft blurred cream kitchen wall with warm light, low contrast for UI overlay, no text, no UI elements"},
+    {"name":"sprite_basket","type":"sprite","prompt":"One single cute cartoon woven wicker basket, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_strawberry","type":"sprite","prompt":"One single cute cartoon strawberry, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_lemon","type":"sprite","prompt":"One single cute cartoon lemon, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_apple","type":"sprite","prompt":"One single cute cartoon red apple, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_blueberry","type":"sprite","prompt":"One single cute cartoon blueberry, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_plum","type":"sprite","prompt":"One single cute cartoon purple plum, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_crown","type":"sprite","prompt":"One single cute cartoon golden crown, centered icon, glossy 3D render, isolated on plain white, no other objects"}
+  ]
+}
